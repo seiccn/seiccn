@@ -24,164 +24,78 @@ Programming languages · Web Development Frameworks · Mobile App Development ·
 Python · Java · JavaScript · C · C++ · C# · Go · Swift · Rust · Kotlin · PHP
 
 ## Web Development Frameworks
-React.js
-Angular
-Vue.js
-Node.js
-Django
-Ruby on Rails
-Flask
-Express.js Basics
-ASP.NET Core
-Laravel
+React.js · Angular · Vue.js · Node.js · Django · Ruby on Rails · Flask · Express.js Basics · ASP.NET Core · Laravel
 
 ## Mobile App Development
-React Native
-Flutter
-Xamarin
-iOS (Swift/Objective-C)
-Android (Java/Kotlin)
-Database Management
-SQL
-NoSQL (MongoDB, Cassandra, etc.)
-PostgreSQL
-MySQL
-Oracle
+React Native · Flutter · Xamarin · iOS (Swift/Objective-C) · Android (Java/Kotlin) · Database Management · SQL · NoSQL (MongoDB, Cassandra, etc.) · PostgreSQL · MySQL · Oracle
 
 ## Cloud Computing
-Amazon Web Services (AWS)
-Microsoft Azure
-Google Cloud Platform (GCP)
-Kubernetes
-Docker
+Amazon Web Services (AWS) · Microsoft Azure · Google Cloud Platform (GCP) · Kubernetes · Docker
 
 ## Data Science and Machine Learning
-TensorFlow
-PyTorch
-Scikit-Learn
-Pandas
-Numpy
-Keras
-Jupyter
-Hadoop
-Spark
+TensorFlow · PyTorch · Scikit-Learn · Pandas · Numpy · Keras · Jupyter · Hadoop · Spark
 
 ## DevOps and CI/CD
-Jenkins
-Travis CI
-CircleCI
-GitLab CI/CD
-Ansible
-Terraform
-Prometheus
-Grafana
-ELK Stack
+Jenkins · Travis CI · CircleCI · GitLab CI/CD · Ansible · Terraform · Prometheus · Grafana · ELK Stack
 
 ## Cybersecurity
-Ethical Hacking
-SIEM (Security Information and Event Management)
-IDS/IPS (Intrusion Detection/Prevention System)
-OWASP Top Ten
-SSL/TLS
-Cryptography
-Firewall Management
-Penetration Testing
+Ethical Hacking · SIEM (Security Information and Event Management) · IDS/IPS (Intrusion Detection/Prevention System) · OWASP Top Ten · SSL/TLS · Cryptography · Firewall Management · Penetration Testing
 
 ## Frontend Development
-HTML5
-CSS3
-SASS/LESS
-Responsive Design
+HTML5 · CSS3 · SASS/LESS · Responsive Design
 
 ## Backend Development
-RESTful APIs
-GraphQL
-WebSocket
-Microservices Architecture
-Serverless Computing
-JWT (JSON Web Tokens)
-OAuth
-Redis
+RESTful APIs · GraphQL · WebSocket · Microservices Architecture · Serverless Computing · JWT (JSON Web Tokens) · OAuth · Redis
 
 ## Blockchain and Cryptocurrency
-Ethereum
-Solidity
-Smart Contracts
-Decentralized Finance (DeFi)
-Cryptocurrency Wallets
-Blockchain Consensus Algorithms
+Ethereum · Solidity · Smart Contracts · Decentralized Finance (DeFi) · Cryptocurrency Wallets · Blockchain Consensus Algorithms
 
 ## IoT (Internet of Things)
-Raspberry Pi
-Arduino
-MQTT (Message Queuing Telemetry Transport)
-IoT Security
+Raspberry Pi · Arduino · MQTT (Message Queuing Telemetry Transport) · IoT Security
 
 ## AR/VR (Augmented Reality/Virtual Reality)
-Unity3D
-Unreal Engine
-ARKit (iOS)
-ARCore (Android)
+Unity3D · Unreal Engine · ARKit (iOS) · ARCore (Android)
 
 ## AI and Natural Language Processing
-Natural Language Processing (NLP)
-OpenAI GPT
-BERT
-Transformer Models
-Speech Recognition
-Computer Vision
+Natural Language Processing (NLP) · OpenAI GPT · BERT · Transformer Models · Speech Recognition · Computer Vision
 
 ## Big Data and Analytics
-Apache Kafka
-Apache Flink
-Databricks
-Snowflake
-Tableau
-Power BI
+Apache Kafka · Apache Flink · Databricks · Snowflake · Tableau · Power BI
 
 ## Version Control
-Git
-GitHub
-GitLab
-Bitbucket
-Containerization
-Docker
-Kubernetes
-Helm
-Serverless Computing
-AWS Lambda
-Azure Functions
-Google Cloud Functions
+Git · GitHub · GitLab · Bitbucket
+
+## Containerization
+Docker · Kubernetes · Helm · Serverless Computing · AWS Lambda · Azure Functions · Google Cloud Functions
 
 ## UI/UX Design
 Adobe XD
 
 ## Game Development
-Unity
-Unreal Engine
+Unity · Unreal Engine
 
 ## Content Management Systems (CMS)
-WordPress
-Drupal
-Joomla
+WordPress · 
+Drupal · 
+Joomla · 
 Magento
 
 ## Distributed Systems
-Apache ZooKeeper
-Consul
+Apache ZooKeeper · 
+Consul · 
 etcd
 
 ## Continuous Monitoring and Logging
-Prometheus
-Grafana
-ELK Stack
+Prometheus · 
+Grafana · 
+ELK Stack · 
 Splunk
 
 ## Collaboration and Communication Tools
-Slack
-Microsoft Teams
-Zoom
-JIRA
+Slack · 
+Microsoft Teams · 
+Zoom · 
+JIRA · 
 Confluence
 
 
