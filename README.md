@@ -18,20 +18,10 @@ Experienced legal and technology professional with over 15 years in team leaders
 
 ## Skills
 
-Programming languages · Web Development Frameworks · Mobile App Development · Database Management · Cloud Computing · Data Science and Machine Learning · DevOps and CI/CD · Cybersecurity · Frontend Development · Backend Development · Blockchain and Cryptocurrency · IoT and Internet of Things · AR/VR (Augmented Reality/Virtual Reality) · · AI and Natural Language Processing · Big Data and Analytics · Version Control · Containerization · Serverless Computing · UI/UX Design · Game Development · Content Management Systems (CMS) · Distributed Systems · Continuous Monitoring and Logging · Collaboration and Communication Tools
+Programming languages · Web Development Frameworks · Mobile App Development · Database Management · Cloud Computing · Data Science and Machine Learning · DevOps and CI/CD · Cybersecurity · Frontend Development · Backend Development · Blockchain and Cryptocurrency · IoT and Internet of Things · AR/VR (Augmented Reality/Virtual Reality) · AI and Natural Language Processing · Big Data and Analytics · Version Control · Containerization · Serverless Computing · UI/UX Design · Game Development · Content Management Systems (CMS) · Distributed Systems · Continuous Monitoring and Logging · Collaboration and Communication Tools
 
 ## Programming Languages
-Python
-Java
-JavaScript
-C
-C++
-C#
-Go
-Swift
-Rust
-Kotlin
-PHP
+Python · Java · JavaScript · C · C++ · C# · Go · Swift · Rust · Kotlin · PHP
 
 ## Web Development Frameworks
 React.js
