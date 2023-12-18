@@ -12,7 +12,7 @@
   </a>
 </div>
 
-[![View Counter](https://komarev.com/ghpvc/?username=stephanie-profile&color=blueviolet)](https://github.com/stephanie-profile)
+[![View Counter](https://komarev.com/ghpvc/?username=seiccn&color=blueviolet)](https://github.com/seiccn)
 
 Experienced legal and technology professional with over 15 years in team leadership, committed to bridging law, technology, and societal impact. Passionate about applying knowledge for meaningful global change.
 
